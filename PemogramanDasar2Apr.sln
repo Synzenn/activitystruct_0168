@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemogramanDasar2Apr", "Pemo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PemogramanDasar2AprPrt2", "PemogramanDasar2AprPrt2\PemogramanDasar2AprPrt2.vcxproj", "{1D53B49F-7E6F-4994-A45F-5D1CFC9E356E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part3", "Part3\Part3.vcxproj", "{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{1D53B49F-7E6F-4994-A45F-5D1CFC9E356E}.Release|x64.Build.0 = Release|x64
 		{1D53B49F-7E6F-4994-A45F-5D1CFC9E356E}.Release|x86.ActiveCfg = Release|Win32
 		{1D53B49F-7E6F-4994-A45F-5D1CFC9E356E}.Release|x86.Build.0 = Release|Win32
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Debug|x64.ActiveCfg = Debug|x64
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Debug|x64.Build.0 = Debug|x64
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Debug|x86.Build.0 = Debug|Win32
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Release|x64.ActiveCfg = Release|x64
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Release|x64.Build.0 = Release|x64
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Release|x86.ActiveCfg = Release|Win32
+		{B3C8B7F8-5B7D-4FC4-B11A-CD05CF5BDAD8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
