@@ -27,4 +27,11 @@ int main() {
 	cout << "Umur Mahasiswa : ";
 	cin >> mhs.umur;
 
+	cout << endl;
+	cout << "\n NIM :" << mhs.nim;
+	cout << "\n Nama :" << mhs.nama;
+	cout << "\n Alamat :";
+	cout << "\n \t Desanya :" << mhs.alamat.desa;
+	cout << "\n \t Kotanya :" << mhs.alamat.kota;
+	cout << "\n Umur :" << mhs.umur;
 };
