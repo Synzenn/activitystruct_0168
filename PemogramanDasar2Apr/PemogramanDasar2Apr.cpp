@@ -2,5 +2,6 @@
 using namespace std;
 
 struct mahasiswa {
-
+	string nim;
+	string nama;
 };
