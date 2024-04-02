@@ -12,3 +12,19 @@ struct Mahasiswa {
 	DetailAlamat alamat;
 	string umur;
 };
+
+int main() {
+	Mahasiswa mhs;
+	cout << "Nomor Mahasiswa : ";
+	cin >> mhs.nim;
+	cout << "Nama Mahasiswa : ";
+	cin >> mhs.nama;
+	cout << "Alamat Mahasiswa : " << endl;
+	cout << "\t Desa :";
+	cin >> mhs.alamat.desa;
+	cout << "\t Kota :";
+	cin >> mhs.alamat.kota;
+	cout << "Umur Mahasiswa : ";
+	cin >> mhs.umur;
+
+};
